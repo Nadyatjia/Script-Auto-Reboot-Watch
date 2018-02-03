@@ -22,5 +22,5 @@ Pakai Waktu (Auto Restart Bot Pakai Waktu Yang Kita Tentukan)
 - `Nb : Ctrl + B, Lepas, Dan Tekan Angka Sesion Kamu (Buat Pindah Ke Session Yang Kamu Mau)`
 
 3. 
-- `Kemudian, Setelah Ctrl + B, Lepas, Dan Tekan C, Ketik: watch -n 14000 killall -9 python2`
+- `Kemudian, Setelah Ctrl + B, Lepas, Dan Tekan C Ketik:` watch -n 14000 killall -9 python2
 - `Nb : 14000, Adalah Waktu Detik Bot Akan Restart Otomatis`
