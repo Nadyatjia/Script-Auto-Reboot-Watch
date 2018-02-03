@@ -8,4 +8,4 @@ Cara Pemakaian :
 -    echo "Restarting server on crash.."
 -    sleep 2 <<- `Waktu Delaynya`
 - `Lalu Save`
-- `Open Terminal, Ketik->> "cd NamaFolder", "chmod +x nadya", "./nadya"`
+- `Open Terminal, Ketik->> "cd NamaFolder" >> "chmod +x nadya" >> "./nadya"`
